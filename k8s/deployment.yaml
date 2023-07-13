@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: ai-ml
-  name: ai-ml
+  name: car-repair-predication
 spec:
   replicas: 1
   selector:
